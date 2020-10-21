@@ -1,4 +1,7 @@
 ### Hi there 👋
+I focused on developing products for the web, from simple landing pages to full-fledged web apps ✨  
+🔭 I’m currently working on EGM Analytics website based on React.  
+📫 How to reach me: ajaiveersandhu@gmail.com  
 
 <!--
 **ajaiveersandhu/ajaiveersandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
