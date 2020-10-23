@@ -228,8 +228,7 @@ body.night .switch-wrapper a {
     font-weight: 600;
     overflow: hidden;
     height: 50px;
-    /* align-self: center; */
-    padding: 10px 40px;
+    padding: 0px 40px;
     width: 100%;
 }
 
@@ -247,7 +246,7 @@ body.night .switch-wrapper a {
 .container:after,
 .container:before {
     position: absolute;
-    top: 10px;
+    top: 0px;
     color: #007bff;
     font-size: 50px;
     animation-name: opacity1;
@@ -1038,7 +1037,7 @@ body.night .section_content .experience_section {
 
     .intro_hello,
     .intro_tagline {
-        /* margin-bottom: 5%; */
+        margin-bottom: 5%;
         font-size: 1.75rem;
     }
 
@@ -1052,20 +1051,15 @@ body.night .section_content .experience_section {
         padding-left: 30px;
     }
 
-    /* .mytext {
-        margin: 0 0 100px 0;
-    } */
-
     .content {
-        position: absolute;
-        top: 35%;
+        /*position: absolute;*/
+        top: 36%;
         left: 5%;
-        font-size: 2rem;
-        margin-top: 20px;
+        font-size: 1.5rem;
     }
 
     .content .container {
-        padding: 10px 30px 0px 30px;
+        padding: 0px 30px 0px 30px;
     }
 
     .footer {
@@ -1095,7 +1089,7 @@ body.night .section_content .experience_section {
     }
 
     .content {
-        top: 35%;
+        top: 41.5%;
         left: 5%;
         font-size: 1.5rem;
     }
