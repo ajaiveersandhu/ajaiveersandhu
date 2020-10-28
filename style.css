@@ -217,7 +217,7 @@ body.night .switch-wrapper a {
 
 .content {
     position: absolute;
-    top: 37%;
+    top: 38%;
     overflow: hidden;
     font-size: 30px;
     line-height: 50px;
@@ -230,6 +230,7 @@ body.night .switch-wrapper a {
     height: 50px;
     padding: 0px 40px;
     width: 100%;
+    margin: 28px 0;
 }
 
 .container:before {
@@ -246,7 +247,7 @@ body.night .switch-wrapper a {
 .container:after,
 .container:before {
     position: absolute;
-    top: 0px;
+    top: 28px;
     color: #007bff;
     font-size: 50px;
     animation-name: opacity1;
@@ -1019,6 +1020,26 @@ body.night .section_content .experience_section {
         font-size: 1.4rem;
     }
 
+    .content {
+        top: 38%;
+        left: 5%;
+        font-size: 1.5rem;
+    }
+
+    .container:after,
+    .container:before {
+        top: 0px;
+    }
+
+    .content .container {
+        font-weight: 600;
+        overflow: hidden;
+        height: 50px;
+        padding: 0px 35px;
+        width: 100%;
+        margin: 28px 0;
+    }
+
     body .intro {
         padding: 130px 45px;
     }
@@ -1052,15 +1073,40 @@ body.night .section_content .experience_section {
     }
 
     .content {
-        /*position: absolute;*/
+        top: 38%;
+        left: 5%;
+        font-size: 1.5rem;
+    }
+
+    .container:after,
+    .container:before {
+        top: 0px;
+    }
+
+    .content .container {
+        font-weight: 600;
+        overflow: hidden;
+        height: 50px;
+        padding: 0px 35px;
+        width: 100%;
+        margin: 28px 0;
+    }
+
+    /* .content {
         top: 36%;
         left: 5%;
         font-size: 1.5rem;
     }
 
+    .container:after,
+    .container:before {
+        top: 0px;
+    }
+
     .content .container {
         padding: 0px 30px 0px 30px;
-    }
+
+    } */
 
     .footer {
         padding: 50px 30px;
@@ -1089,9 +1135,18 @@ body.night .section_content .experience_section {
     }
 
     .content {
-        top: 41.5%;
+        top: 38%;
         left: 5%;
         font-size: 1.5rem;
+    }
+
+    .content .container {
+        font-weight: 600;
+        overflow: hidden;
+        height: 50px;
+        padding: 0px 35px;
+        width: 100%;
+        margin: 28px 0;
     }
 
     .intro_contact {
