@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://ajaiveersandhu.github.io/</loc>
+	<lastmod>2020-12-18T01:30:29+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://ajaiveersandhu.github.io/resume/myResume-Ottawa.pdf</loc>
+	<lastmod>2020-12-18T01:30:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://ajaiveersandhu.github.io/movieinfo/index.html</loc>
+	<lastmod>2020-12-18T01:30:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://ajaiveersandhu.github.io/tast-list/index.html</loc>
+	<lastmod>2020-12-18T01:30:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
